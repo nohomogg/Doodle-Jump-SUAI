@@ -12,8 +12,8 @@ git clone https://github.com/nohomogg/Doodle-Jump-SUAI.git
 
 Перейдите в директорию проекта 
 
-Запустите два файла в Pycharm:
-doodle jump.py  и sprites.py
+Запустите файл в Pycharm:
+doodle jump.py, sprites.py запустится самостоятельно вместе с первым
 
 Управление:
 Клавиша A: Движение влево
