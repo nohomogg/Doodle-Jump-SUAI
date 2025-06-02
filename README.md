@@ -7,17 +7,13 @@
 – Git (для клонирования репозитория)
 
 Установка и запуск:
-Склонируйте репозиторий игры на компьютер, используя команду в терминале (рис. 1):
-git clone https://github.com/nohomogg/doodle_jump.git  
+Склонируйте репозиторий игры на компьютер:
+git clone https://github.com/nohomogg/Doodle-Jump-SUAI.git  
 
-Перейдите в директорию проекта:
-cd doodle_jump_pygame  
+Перейдите в директорию проекта 
 
-Установите зависимости:
-pip install -r requirements.txt  # или pip install pygame  
-
-Запустите игру:
-python doodle jump.py  
+Запустите два файла в Pycharm:
+doodle jump.py  и sprites.py
 
 Управление:
 Клавиша A: Движение влево
